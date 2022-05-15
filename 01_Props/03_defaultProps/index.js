@@ -2,8 +2,8 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Friend name=' Aram' hobbies={['Yüzme', 'Kayak', 'Hokey']} />
-        <Friend name='Defne' hobbies={['Voleybol', 'Kitap Okuma', 'Koşu']} />
+        <Hello to='Ozan' from='Nida' bangs={4} />
+        <Hello to='Aram' />
       </div>
     )
   }
