@@ -34,6 +34,8 @@
 
 .Pokecard-title {
   color: #fff;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .Pokecard-data {
@@ -41,5 +43,21 @@
 }
 
 .Pokecard-image {
-  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+.Pokecard-image img {
+  width: 250px;
+  opacity: 0.9;
+  transition: all ease 500ms;
+}
+
+.Pokecard-image img:hover {
+  transform: scale(1.25);
+  opacity: 1;
 }

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 const POKE_API =
-  'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/'
+  'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/'
 
 class Pokecard extends Component {
   render() {
@@ -8,11 +8,9 @@ class Pokecard extends Component {
     return (
       <div className='Pokecard'>
         <h3 className='Pokecard-title'>{this.props.name}</h3>
-        <img
-          className='Pokecard-image'
-          src={imgSrc}
-          alt={this.props.name}
-        ></img>
+        <div className='Pokecard-image'>
+          <img src={imgSrc} alt={this.props.name}></img>
+        </div>
         <div className='Pokecard-data'>Type: {this.props.type}</div>
         <div className='Pokecard-data'>EXP: {this.props.exp}</div>
       </div>
