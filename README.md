@@ -16,9 +16,7 @@
 
 <hr/>
 
-<h2 align="center">Projeler</h2>
-
-- ###### Repository içeriği
+<h2 align="center">Repository içeriği</h2>
 
 | Sıra | İçerik                                                                                                   |
 | :--- | :------------------------------------------------------------------------------------------------------- |
@@ -54,7 +52,7 @@
 
 <hr/>
 
-<h2 align="center">YouTubu ile Projeler</h2>
+<h2 align="center">YouTube ile Projeler</h2>
 
 | Sıra | Proje                                                                          | Tarih          |
 | :--- | :----------------------------------------------------------------------------- | :------------- |
@@ -73,8 +71,6 @@
 <hr/>
 
 <h2 align="center">Bookmarks</h2>
-
-- ###### Bu tabloda yararlı bulduğum ve aktif olarak yararlandığım kaynaklara ulaşabilirsiniz.
 
 | Sıra | İçerik                                                                              | Nedir?                                           |
 | :--- | :---------------------------------------------------------------------------------- | :----------------------------------------------- |
