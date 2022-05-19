@@ -16,11 +16,29 @@
 
 <hr/>
 
-<h2 align="center">Günlük Çalışmalarım </h2>
+<h2 align="center">Projeler</h2>
 
-- ###### Bu tabloda yüz gün boyunca yaptığım tüm çalışmalara tarih sıralamasına göre ulaşabilirsiniz.
+- ###### Repository içeriği
 
-| Sıra | Çalışma                                                                                                                                               | Tarih          |
+| Sıra | İçerik                                                                                                   |
+| :--- | :------------------------------------------------------------------------------------------------------- |
+| `00` | **[JSX Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/00_JSX)**                            |
+| `01` | **[Props Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/01_Props)**                        |
+| `02` | **[Create React Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/03_Create_React_App)**      |
+| `03` | **[İlk Proje: Pokedex Proje](https://github.com/ozantekin/react-bootcamp/tree/main/04_pokedex_project)** |
+| `04` | **[]()**                                                                                                 |
+| `05` | **[]()**                                                                                                 |
+| `06` | **[]()**                                                                                                 |
+| `07` | **[]()**                                                                                                 |
+| `08` | **[]()**                                                                                                 |
+| `09` | **[]()**                                                                                                 |
+| `10` | **[]()**                                                                                                 |
+
+<hr/>
+
+<h2 align="center">Çalışma Özetleri </h2>
+
+| Sıra | Makaleler                                                                                                                                             | Tarih          |
 | :--- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
 | `00` | **[React Dünyasına Giriş #1](https://medium.com/@ozantekindev/react-d%C3%BCnyas%C4%B1na-giri%C5%9F-1-222c415e63e3)**                                  | `10 Mayıs`     |
 | `01` | **[Props Nedir? Encapsulation Nedir? #2](https://medium.com/@ozantekindev/props-nedir-encapsulation-nedir-2-8b50b9bd7904)**                           | `11 Mayıs`     |
@@ -36,23 +54,21 @@
 
 <hr/>
 
-<h2 align="center">Projelerim</h2>
+<h2 align="center">YouTubu ile Projeler</h2>
 
-- ###### Bu tabloda yüz gün içinde yaptığım tüm projelere tarih sıralamasına göre ulaşabilirsiniz.
-
-| Sıra | Proje    | Tarih          |
-| :--- | :------- | :------------- |
-| `00` | **[]()** | `18Mayıs`      |
-| `01` | **[]()** | `Hazırlanıyor` |
-| `02` | **[]()** | ``             |
-| `03` | **[]()** | ``             |
-| `04` | **[]()** | ``             |
-| `05` | **[]()** | ``             |
-| `06` | **[]()** | ``             |
-| `07` | **[]()** | ``             |
-| `08` | **[]()** | ``             |
-| `09` | **[]()** | ``             |
-| `10` | **[]()** | ``             |
+| Sıra | Proje                                                                          | Tarih          |
+| :--- | :----------------------------------------------------------------------------- | :------------- |
+| `00` | **[React Giriş Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)** | `18 Mayıs`     |
+| `01` | **[]()**                                                                       | `Hazırlanıyor` |
+| `02` | **[]()**                                                                       | ``             |
+| `03` | **[]()**                                                                       | ``             |
+| `04` | **[]()**                                                                       | ``             |
+| `05` | **[]()**                                                                       | ``             |
+| `06` | **[]()**                                                                       | ``             |
+| `07` | **[]()**                                                                       | ``             |
+| `08` | **[]()**                                                                       | ``             |
+| `09` | **[]()**                                                                       | ``             |
+| `10` | **[]()**                                                                       | ``             |
 
 <hr/>
 
@@ -76,7 +92,7 @@
 
 <hr/>
 
-<h2 align="center">Extension</h2>
+<h2 align="center">Extensions</h2>
 
 | Sıra | Extensions |
 | :--- | :--------- |
