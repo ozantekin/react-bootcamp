@@ -36,14 +36,14 @@
 
 <h2 align="center">Çalışma Özetleri </h2>
 
-| Sıra | Makaleler                                                                                                                                             | Tarih          |
+| Sıra | Flood ve Makaleler                                                                                                                                    | Tarih          |
 | :--- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
 | `00` | **[React Dünyasına Giriş #1](https://medium.com/@ozantekindev/react-d%C3%BCnyas%C4%B1na-giri%C5%9F-1-222c415e63e3)**                                  | `10 Mayıs`     |
 | `01` | **[Props Nedir? Encapsulation Nedir? #2](https://medium.com/@ozantekindev/props-nedir-encapsulation-nedir-2-8b50b9bd7904)**                           | `11 Mayıs`     |
 | `02` | **[State Nedir? #3](https://medium.com/@ozantekindev/state-nedir-3-fb23641da99)**                                                                     | `12 Mayıs`     |
 | `03` | **[Component’ler arası veri ve event transferi #4](https://medium.com/@ozantekindev/componentler-aras%C4%B1-veri-ve-event-transferi-4-2b809657f796)** | `13 Mayıs`     |
-| `04` | **[]()**                                                                                                                                              | `Hazırlanıyor` |
-| `05` | **[]()**                                                                                                                                              | ``             |
+| `04` | **[React üzerine çalışanlar için 4 Chrome eklentisi](https://twitter.com/ozantekindev/status/1527963709838176262?s=20&t=6hDOEJvI_6hxuBe9ye882Q)**     | `21 Mayıs`     |
+| `05` | **[]()**                                                                                                                                              | `Hazırlanıyor` |
 | `06` | **[]()**                                                                                                                                              | ``             |
 | `07` | **[]()**                                                                                                                                              | ``             |
 | `08` | **[]()**                                                                                                                                              | ``             |
@@ -90,19 +90,19 @@
 
 <h2 align="center">Extensions</h2>
 
-| Sıra | Extensions                                                                                                                                   |
-| :--- | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| `00` | **[React Developer Tools (Google)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)** |
-| `01` | \*\*\*\*                                                                                                                                     |
-| `02` | \*\*\*\*                                                                                                                                     |
-| `03` | \*\*\*\*                                                                                                                                     |
-| `04` | \*\*\*\*                                                                                                                                     |
-| `05` | \*\*\*\*                                                                                                                                     |
-| `06` | \*\*\*\*                                                                                                                                     |
-| `07` | \*\*\*\*                                                                                                                                     |
-| `08` | \*\*\*\*                                                                                                                                     |
-| `09` | \*\*\*\*                                                                                                                                     |
-| `10` | \*\*\*\*                                                                                                                                     |
+| Sıra | Extensions                                                                                                                                      |
+| :--- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| `00` | **[React Developer Tools (Google)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)**    |
+| `01` | **[MobX Developer Tools (Google)](https://chrome.google.com/webstore/detail/mobx-developer-tools/pfgnfdagidkfgccljigdamigbcnndkod)**            |
+| `02` | **[Redux DevTools (Google)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)**                  |
+| `03` | **[Apollo Client Developer Tools (Google)](https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm)** |
+| `04` | **[]()**                                                                                                                                        |
+| `05` | \*\*\*\*                                                                                                                                        |
+| `06` | \*\*\*\*                                                                                                                                        |
+| `07` | \*\*\*\*                                                                                                                                        |
+| `08` | \*\*\*\*                                                                                                                                        |
+| `09` | \*\*\*\*                                                                                                                                        |
+| `10` | \*\*\*\*                                                                                                                                        |
 
 <hr/>
 
