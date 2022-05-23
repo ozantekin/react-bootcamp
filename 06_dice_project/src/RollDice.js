@@ -6,12 +6,10 @@ class RollDice extends Component {
   static defaultProps = {
     sides: ['one', 'two', 'three', 'four', 'five', 'six'],
   }
-  constructor(props) {
-    super(props)
-    this.state = { dice1: 'one', dice2: 'two', rolling: false }
-    this.roll = this.roll.bind(this)
-  }
-  roll() {
+
+  state = { dice1: 'one', dice2: 'two', rolling: false }
+
+  roll = () => {
     const newDice1 =
       this.props.sides[Math.floor(Math.random() * this.props.sides.length)]
     const newDice2 =
