@@ -57,7 +57,7 @@
 | Sıra | Proje                                                                                | Tarih          |
 | :--- | :----------------------------------------------------------------------------------- | :------------- |
 | `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)** | `18 Mayıs`     |
-| `01` | **[React Giriş State Detaylı Proje • React Proje #1](https://youtu.be/D6kz5L2o9FE)** | `20 Mayıs`     |
+| `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)** | `23 Mayıs`     |
 | `02` | **[]()**                                                                             | `Hazırlanıyor` |
 | `03` | **[]()**                                                                             | ``             |
 | `04` | **[]()**                                                                             | ``             |
