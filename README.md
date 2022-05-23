@@ -25,7 +25,7 @@
 | `02` | **[Create React Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/03_Create_React_App)**      |
 | `03` | **[İlk Proje: Pokedex Proje](https://github.com/ozantekin/react-bootcamp/tree/main/04_pokedex_project)** |
 | `04` | **[Temel State Bilgisi](https://github.com/ozantekin/react-bootcamp/tree/main/05_State)**                |
-| `05` | **[]()**                                                                                                 |
+| `05` | **[İkinci Proje: Dice Proje](https://github.com/ozantekin/react-bootcamp/tree/main/06_dice_project)**    |
 | `06` | **[]()**                                                                                                 |
 | `07` | **[]()**                                                                                                 |
 | `08` | **[]()**                                                                                                 |
@@ -54,19 +54,19 @@
 
 <h2 align="center">YouTube ile Projeler</h2>
 
-| Sıra | Proje                                                                          | Tarih          |
-| :--- | :----------------------------------------------------------------------------- | :------------- |
-| `00` | **[React Giriş Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)** | `18 Mayıs`     |
-| `01` | **[]()**                                                                       | `Hazırlanıyor` |
-| `02` | **[]()**                                                                       | ``             |
-| `03` | **[]()**                                                                       | ``             |
-| `04` | **[]()**                                                                       | ``             |
-| `05` | **[]()**                                                                       | ``             |
-| `06` | **[]()**                                                                       | ``             |
-| `07` | **[]()**                                                                       | ``             |
-| `08` | **[]()**                                                                       | ``             |
-| `09` | **[]()**                                                                       | ``             |
-| `10` | **[]()**                                                                       | ``             |
+| Sıra | Proje                                                                                | Tarih          |
+| :--- | :----------------------------------------------------------------------------------- | :------------- |
+| `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)** | `18 Mayıs`     |
+| `01` | **[React Giriş State Detaylı Proje • React Proje #1](https://youtu.be/D6kz5L2o9FE)** | `20 Mayıs`     |
+| `02` | **[]()**                                                                             | `Hazırlanıyor` |
+| `03` | **[]()**                                                                             | ``             |
+| `04` | **[]()**                                                                             | ``             |
+| `05` | **[]()**                                                                             | ``             |
+| `06` | **[]()**                                                                             | ``             |
+| `07` | **[]()**                                                                             | ``             |
+| `08` | **[]()**                                                                             | ``             |
+| `09` | **[]()**                                                                             | ``             |
+| `10` | **[]()**                                                                             | ``             |
 
 <hr/>
 
