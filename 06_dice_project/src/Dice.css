@@ -7,10 +7,6 @@
   animation: shake 1s;
 }
 
-.Dice .shaking:active {
-  background-color: red;
-}
-
 @keyframes shake {
   from {
     transform: translate3d(0, 0, 0);
