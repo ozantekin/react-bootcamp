@@ -43,8 +43,8 @@
 | `02` | **[State Nedir? #3](https://medium.com/@ozantekindev/state-nedir-3-fb23641da99)**                                                                          | `12 Mayıs`     |
 | `03` | **[Component’ler arası veri ve event transferi #4](https://medium.com/@ozantekindev/componentler-aras%C4%B1-veri-ve-event-transferi-4-2b809657f796)**      | `13 Mayıs`     |
 | `04` | **[React üzerine çalışanlar için 4 Chrome eklentisi](https://twitter.com/ozantekindev/status/1527963709838176262?s=20&t=6hDOEJvI_6hxuBe9ye882Q)**          | `21 Mayıs`     |
-| `05` | **[Map, Reduce, Filter & Spread Operator • React #5](https://medium.com/@ozantekindev/map-reduce-filter-spread-operator-react-5-javascript-9093206d111f)** | `Hazırlanıyor` |
-| `06` | **[]()**                                                                                                                                                   | ``             |
+| `05` | **[Map, Reduce, Filter & Spread Operator • React #5](https://medium.com/@ozantekindev/map-reduce-filter-spread-operator-react-5-javascript-9093206d111f)** | `25 Mayıs`     |
+| `06` | **[]()**                                                                                                                                                   | `Hazırlanıyor` |
 | `07` | **[]()**                                                                                                                                                   | ``             |
 | `08` | **[]()**                                                                                                                                                   | ``             |
 | `09` | **[]()**                                                                                                                                                   | ``             |
