@@ -36,19 +36,19 @@
 
 <h2 align="center">Çalışma Özetleri </h2>
 
-| Sıra | Flood ve Makaleler                                                                                                                                    | Tarih          |
-| :--- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
-| `00` | **[React Dünyasına Giriş #1](https://medium.com/@ozantekindev/react-d%C3%BCnyas%C4%B1na-giri%C5%9F-1-222c415e63e3)**                                  | `10 Mayıs`     |
-| `01` | **[Props Nedir? Encapsulation Nedir? #2](https://medium.com/@ozantekindev/props-nedir-encapsulation-nedir-2-8b50b9bd7904)**                           | `11 Mayıs`     |
-| `02` | **[State Nedir? #3](https://medium.com/@ozantekindev/state-nedir-3-fb23641da99)**                                                                     | `12 Mayıs`     |
-| `03` | **[Component’ler arası veri ve event transferi #4](https://medium.com/@ozantekindev/componentler-aras%C4%B1-veri-ve-event-transferi-4-2b809657f796)** | `13 Mayıs`     |
-| `04` | **[React üzerine çalışanlar için 4 Chrome eklentisi](https://twitter.com/ozantekindev/status/1527963709838176262?s=20&t=6hDOEJvI_6hxuBe9ye882Q)**     | `21 Mayıs`     |
-| `05` | **[]()**                                                                                                                                              | `Hazırlanıyor` |
-| `06` | **[]()**                                                                                                                                              | ``             |
-| `07` | **[]()**                                                                                                                                              | ``             |
-| `08` | **[]()**                                                                                                                                              | ``             |
-| `09` | **[]()**                                                                                                                                              | ``             |
-| `10` | **[]()**                                                                                                                                              | ``             |
+| Sıra | Flood ve Makaleler                                                                                                                                         | Tarih          |
+| :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
+| `00` | **[React Dünyasına Giriş #1](https://medium.com/@ozantekindev/react-d%C3%BCnyas%C4%B1na-giri%C5%9F-1-222c415e63e3)**                                       | `10 Mayıs`     |
+| `01` | **[Props Nedir? Encapsulation Nedir? #2](https://medium.com/@ozantekindev/props-nedir-encapsulation-nedir-2-8b50b9bd7904)**                                | `11 Mayıs`     |
+| `02` | **[State Nedir? #3](https://medium.com/@ozantekindev/state-nedir-3-fb23641da99)**                                                                          | `12 Mayıs`     |
+| `03` | **[Component’ler arası veri ve event transferi #4](https://medium.com/@ozantekindev/componentler-aras%C4%B1-veri-ve-event-transferi-4-2b809657f796)**      | `13 Mayıs`     |
+| `04` | **[React üzerine çalışanlar için 4 Chrome eklentisi](https://twitter.com/ozantekindev/status/1527963709838176262?s=20&t=6hDOEJvI_6hxuBe9ye882Q)**          | `21 Mayıs`     |
+| `05` | **[Map, Reduce, Filter & Spread Operator • React #5](https://medium.com/@ozantekindev/map-reduce-filter-spread-operator-react-5-javascript-9093206d111f)** | `Hazırlanıyor` |
+| `06` | **[]()**                                                                                                                                                   | ``             |
+| `07` | **[]()**                                                                                                                                                   | ``             |
+| `08` | **[]()**                                                                                                                                                   | ``             |
+| `09` | **[]()**                                                                                                                                                   | ``             |
+| `10` | **[]()**                                                                                                                                                   | ``             |
 
 <hr/>
 
