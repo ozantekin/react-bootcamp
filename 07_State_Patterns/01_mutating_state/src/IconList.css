@@ -1,0 +1,7 @@
+i:nth-of-type(even) {
+  color: peru;
+}
+
+i:nth-of-type(odd) {
+  color: palevioletred;
+}

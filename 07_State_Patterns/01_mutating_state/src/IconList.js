@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './IconList.css'
 
 class IconList extends Component {
   static defaultProps = {
@@ -29,7 +30,6 @@ class IconList extends Component {
   //   this.setState({ icons: icons })
   // }
 
-  // diğer yöntem
   addIcon() {
     let idx = Math.floor(Math.random() * this.props.options.length)
     let newIcon = this.props.options[idx]
