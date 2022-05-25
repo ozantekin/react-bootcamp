@@ -26,8 +26,8 @@
 | `03` | **[İlk Proje: Pokedex Proje](https://github.com/ozantekin/react-bootcamp/tree/main/04_pokedex_project)** |
 | `04` | **[Temel State Bilgisi](https://github.com/ozantekin/react-bootcamp/tree/main/05_State)**                |
 | `05` | **[İkinci Proje: Dice Proje](https://github.com/ozantekin/react-bootcamp/tree/main/06_dice_project)**    |
-| `06` | **[]()**                                                                                                 |
-| `07` | **[]()**                                                                                                 |
+| `06` | **[State Patterns](https://github.com/ozantekin/react-bootcamp/tree/main/07_State_Patterns)**            |
+| `07` | **[Lottery Exercise](https://github.com/ozantekin/react-bootcamp/tree/main/08_state_lottery_exercise)**  |
 | `08` | **[]()**                                                                                                 |
 | `09` | **[]()**                                                                                                 |
 | `10` | **[]()**                                                                                                 |
