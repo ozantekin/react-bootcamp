@@ -9,12 +9,12 @@ class CoinContainer extends Component {
       {
         side: 'tails',
         imgSrc:
-          'https://raw.githubusercontent.com/ozantekin/100-Days-Of-React/main/image/yazi.png?token=GHSAT0AAAAAABTCN3OXDY3GPYKP72G5N66MYUOVJHA',
+          'https://upload.wikimedia.org/wikipedia/commons/6/64/1TL_obverse.png',
       },
       {
         side: 'heads',
         imgSrc:
-          'https://raw.githubusercontent.com/ozantekin/100-Days-Of-React/main/image/tura.png?token=GHSAT0AAAAAABTCN3OWFXENKYRKTISQOCWKYUOVI2Q',
+          'https://play-lh.googleusercontent.com/XqQPFaIqg5vEiB316LM5eOHThuZHt1ZIVleJ0_hX4LrhJdG6le951ybCszG0w5AKl_-i',
       },
     ],
   }
