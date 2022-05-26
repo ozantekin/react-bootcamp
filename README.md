@@ -18,19 +18,19 @@
 
 <h2 align="center">Repository içeriği</h2>
 
-| Sıra | İçerik                                                                                                   |
-| :--- | :------------------------------------------------------------------------------------------------------- |
-| `00` | **[JSX Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/00_JSX)**                            |
-| `01` | **[Props Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/01_Props)**                        |
-| `02` | **[Create React Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/03_Create_React_App)**      |
-| `03` | **[İlk Proje: Pokedex Proje](https://github.com/ozantekin/react-bootcamp/tree/main/04_pokedex_project)** |
-| `04` | **[Temel State Bilgisi](https://github.com/ozantekin/react-bootcamp/tree/main/05_State)**                |
-| `05` | **[İkinci Proje: Dice Proje](https://github.com/ozantekin/react-bootcamp/tree/main/06_dice_project)**    |
-| `06` | **[State Patterns](https://github.com/ozantekin/react-bootcamp/tree/main/07_State_Patterns)**            |
-| `07` | **[Lottery Exercise](https://github.com/ozantekin/react-bootcamp/tree/main/08_state_lottery_exercise)**  |
-| `08` | **[]()**                                                                                                 |
-| `09` | **[]()**                                                                                                 |
-| `10` | **[]()**                                                                                                 |
+| Sıra | İçerik                                                                                                    |
+| :--- | :-------------------------------------------------------------------------------------------------------- |
+| `00` | **[JSX Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/00_JSX)**                             |
+| `01` | **[Props Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/01_Props)**                         |
+| `02` | **[Create React Giriş](https://github.com/ozantekin/react-bootcamp/tree/main/03_Create_React_App)**       |
+| `03` | **[İlk Proje: Pokedex Proje](https://github.com/ozantekin/react-bootcamp/tree/main/04_pokedex_project)**  |
+| `04` | **[Temel State Bilgisi](https://github.com/ozantekin/react-bootcamp/tree/main/05_State)**                 |
+| `05` | **[İkinci Proje: Dice Proje](https://github.com/ozantekin/react-bootcamp/tree/main/06_dice_project)**     |
+| `06` | **[State Patterns](https://github.com/ozantekin/react-bootcamp/tree/main/07_State_Patterns)**             |
+| `07` | **[Lottery Exercise](https://github.com/ozantekin/react-bootcamp/tree/main/08_state_lottery_exercise)**   |
+| `08` | **[Coin Flipper Project](https://github.com/ozantekin/react-bootcamp/tree/main/09_coin_flipper_project)** |
+| `09` | **[]()**                                                                                                  |
+| `10` | **[]()**                                                                                                  |
 
 <hr/>
 
@@ -58,8 +58,8 @@
 | :--- | :----------------------------------------------------------------------------------- | :------------- |
 | `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)** | `18 Mayıs`     |
 | `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)** | `23 Mayıs`     |
-| `02` | **[]()**                                                                             | `Hazırlanıyor` |
-| `03` | **[]()**                                                                             | ``             |
+| `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                 | `26 Mayıs`     |
+| `03` | **[]()**                                                                             | `Hazırlanıyor` |
 | `04` | **[]()**                                                                             | ``             |
 | `05` | **[]()**                                                                             | ``             |
 | `06` | **[]()**                                                                             | ``             |
