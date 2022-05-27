@@ -29,8 +29,13 @@
 | `06` | **[State Patterns](https://github.com/ozantekin/react-bootcamp/tree/main/07_State_Patterns)**             |
 | `07` | **[Lottery Exercise](https://github.com/ozantekin/react-bootcamp/tree/main/08_state_lottery_exercise)**   |
 | `08` | **[Coin Flipper Project](https://github.com/ozantekin/react-bootcamp/tree/main/09_coin_flipper_project)** |
-| `09` | **[]()**                                                                                                  |
+| `09` | **[Color Boxes Project](https://github.com/ozantekin/react-bootcamp/tree/main/10_color_boxes)**           |
 | `10` | **[]()**                                                                                                  |
+| `11` | **[]()**                                                                                                  |
+| `12` | **[]()**                                                                                                  |
+| `13` | **[]()**                                                                                                  |
+| `14` | **[]()**                                                                                                  |
+| `15` | **[]()**                                                                                                  |
 
 <hr/>
 
@@ -59,8 +64,8 @@
 | `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)** | `18 Mayıs`     |
 | `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)** | `23 Mayıs`     |
 | `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                 | `26 Mayıs`     |
-| `03` | **[]()**                                                                             | `Hazırlanıyor` |
-| `04` | **[]()**                                                                             | ``             |
+| `03` | **[Renkli Piyano Tuşları • React Proje #4](https://youtu.be/4gWwWDiw7Aw)**           | `27 Mayıs`     |
+| `04` | **[]()**                                                                             | `Hazırlanıyor` |
 | `05` | **[]()**                                                                             | ``             |
 | `06` | **[]()**                                                                             | ``             |
 | `07` | **[]()**                                                                             | ``             |
