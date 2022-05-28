@@ -1,0 +1,19 @@
+.ButtonList {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
+  height: 100vh;
+}
+.ButtonList button {
+  border: none;
+  padding: 0.2em 0.4em;
+  font-weight: bold;
+  font-size: 1.2em;
+  border-radius: 1em;
+  margin: 0 0.5em;
+}
+
+.ButtonList button:focus {
+  border: 5px solid black;
+}
