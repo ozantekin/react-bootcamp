@@ -30,7 +30,7 @@
 | `07` | **[Lottery Exercise](https://github.com/ozantekin/react-bootcamp/tree/main/08_state_lottery_exercise)**   |
 | `08` | **[Coin Flipper Project](https://github.com/ozantekin/react-bootcamp/tree/main/09_coin_flipper_project)** |
 | `09` | **[Color Boxes Project](https://github.com/ozantekin/react-bootcamp/tree/main/10_color_boxes)**           |
-| `10` | **[]()**                                                                                                  |
+| `10` | **[React Events](https://github.com/ozantekin/react-bootcamp/tree/main/11_React_Events)**                 |
 | `11` | **[]()**                                                                                                  |
 | `12` | **[]()**                                                                                                  |
 | `13` | **[]()**                                                                                                  |
