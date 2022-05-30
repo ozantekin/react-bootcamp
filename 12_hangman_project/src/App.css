@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+.App {
+  font-family: 'Patrick Hand', cursive;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('background.png') center;
+}
