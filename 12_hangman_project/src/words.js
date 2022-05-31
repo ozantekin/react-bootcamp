@@ -1,7 +1,7 @@
 var TURKISH_WORDS = [
   'kalem',
   'tahta',
-  'yılan',
+  'bacak',
   'radyo',
   'sehpa',
   'tabak',
