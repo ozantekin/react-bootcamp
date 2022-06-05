@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './Cell.css'
 
 class Cell extends Component {
   constructor(props) {
@@ -10,8 +11,8 @@ class Cell extends Component {
     this.props.flipCellsAroundMe()
   }
   render() {
-    let classes = 'Cell' + (this.props.isLint ? ' Cell-list' : '')
-    return <td className={classes} onclick={this.handleClick} />
+    let classes = 'Cell' + (this.props.isLit ? ' Cell-lit' : '')
+    return <td className={classes} onClick={this.handleClick} />
   }
 }
 
