@@ -27,7 +27,6 @@ class Board extends Component {
     return board
   }
   flipCellsAround(coord) {
-    console.log('sa')
     let { ncols, nrows } = this.props
     let board = this.state.board
     let [y, x] = coord.split('-').map(Number)
