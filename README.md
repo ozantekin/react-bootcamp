@@ -32,7 +32,7 @@
 | `09` | **[Color Boxes Project](https://github.com/ozantekin/react-bootcamp/tree/main/10_color_boxes)**           |
 | `10` | **[React Events](https://github.com/ozantekin/react-bootcamp/tree/main/11_React_Events)**                 |
 | `11` | **[Hangman Project](https://github.com/ozantekin/react-bootcamp/tree/main/12_hangman_project)**           |
-| `12` | **[Lights Out Game](https://github.com/ozantekin/react-bootcamp/tree/main/13_lights_out_game)**                                                                                                  |
+| `12` | **[Lights Out Game](https://github.com/ozantekin/react-bootcamp/tree/main/13_lights_out_game)**           |
 | `13` | **[]()**                                                                                                  |
 | `14` | **[]()**                                                                                                  |
 | `15` | **[]()**                                                                                                  |
@@ -41,19 +41,19 @@
 
 <h2 align="center">YouTube ile Projeler</h2>
 
-| Sıra | Proje                                                                                | Tarih          |
-| :--- | :----------------------------------------------------------------------------------- | :------------- |
-| `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)** | `18 Mayıs`     |
-| `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)** | `23 Mayıs`     |
-| `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                 | `26 Mayıs`     |
-| `03` | **[Renkli Piyano Tuşları • React Proje #4](https://youtu.be/4gWwWDiw7Aw)**           | `27 Mayıs`     |
-| `04` | **[Lottery Oyunu • React Proje #5](https://youtu.be/XgIfek7lXho)**                   | `28 Mayıs`     |
-| `05` | **[Adam Asmaca Oyunu • React #6](https://youtu.be/4mALpqwC9Es)**                     | `31 Mayıs`     |
-| `06` | **[]()**                                                                             | `Hazırlanıyor` |
-| `07` | **[]()**                                                                             | ``             |
-| `08` | **[]()**                                                                             | ``             |
-| `09` | **[]()**                                                                             | ``             |
-| `10` | **[]()**                                                                             | ``             |
+| Sıra | Proje                                                                                 | Tarih          |
+| :--- | :------------------------------------------------------------------------------------ | :------------- |
+| `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)**  | `18 Mayıs`     |
+| `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)**  | `23 Mayıs`     |
+| `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                  | `26 Mayıs`     |
+| `03` | **[Renkli Piyano Tuşları • React Proje #4](https://youtu.be/4gWwWDiw7Aw)**            | `27 Mayıs`     |
+| `04` | **[Lottery Oyunu • React Proje #5](https://youtu.be/XgIfek7lXho)**                    | `28 Mayıs`     |
+| `05` | **[Adam Asmaca Oyunu • React #6](https://youtu.be/4mALpqwC9Es)**                      | `31 Mayıs`     |
+| `06` | **[1 Saat İçinde React ile Oyun Yap • React Proje #7](https://youtu.be/KodUT0YjbTw)** | `7 Haziran`    |
+| `07` | **[]()**                                                                              | `Hazırlanıyor` |
+| `08` | **[]()**                                                                              | ``             |
+| `09` | **[]()**                                                                              | ``             |
+| `10` | **[]()**                                                                              | ``             |
 
 <hr/>
 
