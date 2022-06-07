@@ -24,10 +24,11 @@ class Form extends Component {
       <div>
         <h1>Introduction to Form Demo</h1>
         <form onSubmit={this.handleSubmit}>
-          <label for='fullname'>Adınız: </label>
+          <label htmlFor='fullname'>Adınız: </label>
           <input
             type='text'
-            name='fullname'
+            name='userName'
+            id='fullname'
             value={this.state.userName}
             onChange={this.handleChange}
           ></input>
