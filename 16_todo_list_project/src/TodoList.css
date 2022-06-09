@@ -14,8 +14,8 @@
 }
 
 .TodoList {
+  background: #ff8235;
   padding: 3rem;
-  background-color: #ff8235;
   max-width: 700px;
   max-height: 800px;
   overflow: auto;
@@ -31,14 +31,13 @@
 
 .TodoList h1 {
   font-size: 2.6rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.05rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
-
 .TodoList span {
   display: block;
   font-size: 0.8rem;
-  margin-bottom: 0.8rem;
   font-weight: normal;
+  margin-bottom: 0.8rem;
   margin-top: 0.4rem;
 }

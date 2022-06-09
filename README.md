@@ -35,7 +35,7 @@
 | `12` | **[Lights Out Game](https://github.com/ozantekin/react-bootcamp/tree/main/13_lights_out_game)**           |
 | `13` | **[Introduction to Form](https://github.com/ozantekin/react-bootcamp/tree/main/14_forms)**                |
 | `14` | **[Form Exercise](https://github.com/ozantekin/react-bootcamp/tree/main/15_forms_exercise)**              |
-| `15` | **[]()**                                                                                                  |
+| `15` | **[Todo List Project](https://github.com/ozantekin/react-bootcamp/tree/main/16_todo_list_project)**       |
 | `16` | **[]()**                                                                                                  |
 | `17` | **[]()**                                                                                                  |
 | `18` | **[]()**                                                                                                  |
@@ -56,8 +56,8 @@
 | `04` | **[Lottery Oyunu • React Proje #5](https://youtu.be/XgIfek7lXho)**                    | `28 Mayıs`     |
 | `05` | **[Adam Asmaca Oyunu • React #6](https://youtu.be/4mALpqwC9Es)**                      | `31 Mayıs`     |
 | `06` | **[1 Saat İçinde React ile Oyun Yap • React Proje #7](https://youtu.be/KodUT0YjbTw)** | `7 Haziran`    |
-| `07` | **[]()**                                                                              | `Hazırlanıyor` |
-| `08` | **[]()**                                                                              | ``             |
+| `07` | **[]()**                                                                              | `11 Haziran`   |
+| `08` | **[]()**                                                                              | `Hazırlanıyor` |
 | `09` | **[]()**                                                                              | ``             |
 | `10` | **[]()**                                                                              | ``             |
 

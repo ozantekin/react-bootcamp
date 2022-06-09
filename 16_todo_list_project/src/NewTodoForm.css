@@ -4,20 +4,19 @@
 
 .NewTodoForm label {
   min-width: 100%;
-  margin: 0 0.1em 0.5em 0;
+  margin: 0 0.2rem;
   font-size: 1rem;
 }
 
 .NewTodoForm button {
   padding: 0 0.1rem;
-  background-color: transparent;
-  border: none;
   font-size: 1.3rem;
-  outline: none;
+  border: none;
+  background-color: transparent;
   color: #f7f1f1;
-  transition: ease all 0.5s;
+  transition: all ease 0.5s;
   position: relative;
-  top: 2px;
+  top: 1px;
 }
 
 .NewTodoForm button:hover {

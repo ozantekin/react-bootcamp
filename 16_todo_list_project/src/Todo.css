@@ -1,10 +1,10 @@
 .Todo {
   margin: 0 -3rem 4px;
+  background: #ffffff1a;
   padding: 1.1rem 3rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .Todo-task {
@@ -39,39 +39,33 @@
   font-size: 1em;
   margin: 0.4em;
   background: none;
-  -webkit-appearance: none;
-  cursor: pointer;
   color: #fff;
+  cursor: pointer;
+  -webkit-appearance: none;
 }
 
 .Todo-edit-form input {
   flex-grow: 1;
+  font-size: initial;
+  background: #f7f1f1;
   border: none;
   outline: none;
-  background: #f7f1f1;
-  font-size: initial;
   padding: 0.1em 1.5em;
 }
 
 .Todo-edit-form button {
   padding: 0.1em 1.3em;
-  font-size: 0.8em;
-  color: #ff8008;
   background: #f7f1f1;
+  color: #ff8235;
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 5px;
-  cursor: pointer;
   margin-left: 5px;
-  transition: all 0.5s ease;
+  font-size: 0.8em;
+  transition: all ease 0.5s;
 }
 
 .Todo-edit-form button:hover {
-  background: transparent;
+  background: #ff8235;
   color: #fff;
-  border: 1px solid white;
-}
-
-.Todo-edit-form input,
-.Todo-edit-form button {
-  font-family: 'Quicksand', sans-serif;
+  border: 1px solid #fff;
 }
