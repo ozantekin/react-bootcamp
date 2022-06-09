@@ -1,0 +1,32 @@
+.NewTodoForm {
+  margin-top: 3rem;
+}
+
+.NewTodoForm label {
+  min-width: 100%;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.NewTodoForm input {
+  border: none;
+  background-color: #f7f1f1;
+  padding: 0.1em 1.5em;
+  font-size: 0.85rem;
+  outline: none;
+}
+
+.NewTodoForm button {
+  padding: 0 0.1rem;
+  border: none;
+  background: transparent;
+  color: #f7f1f1;
+  font-size: 1.3rem;
+  position: relative;
+  top: 2px;
+  transition: ease all 0.5s;
+}
+
+.NewTodoForm button:hover {
+  color: #333;
+}

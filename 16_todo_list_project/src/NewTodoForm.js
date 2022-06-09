@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { v4 as uuidv4 } from 'uuid'
+import './NewTodoForm.css'
 
 class NewTodoForm extends Component {
   constructor(props) {
@@ -20,17 +21,19 @@ class NewTodoForm extends Component {
   }
   render() {
     return (
-      <form onSubmit={this.handleSubmit}>
-        <label htmlFor='task'>Yeni Görev: </label>
+      <form className='NewTodoForm' onSubmit={this.handleSubmit}>
+        <label htmlFor='task'>Planların Neler: </label>
         <input
           type='text'
           id='task'
           name='task'
-          placeholder='Yeni yapılacak'
+          placeholder='Eklemeler Yap!'
           value={this.state.task}
           onChange={this.handleChange}
         />
-        <button>Ekle</button>
+        <button>
+          <i class='fa-solid fa-plus'></i>
+        </button>
       </form>
     )
   }
