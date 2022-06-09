@@ -8,34 +8,41 @@ class Todo extends Component {
       isEditing: false,
       task: this.props.task,
     }
-    this.handleRemove = this.handleRemove.bind(this)
-    this.toggleForm = this.toggleForm.bind(this)
-    this.handleChange = this.handleChange.bind(this)
     this.handleUpdate = this.handleUpdate.bind(this)
+    this.handleChange = this.handleChange.bind(this)
+    this.toggleForm = this.toggleForm.bind(this)
+    this.handleRemove = this.handleRemove.bind(this)
     this.handleToggle = this.handleToggle.bind(this)
   }
+
+  toggleForm() {
+    this.setState({
+      isEditing: !this.state.isEditing,
+    })
+  }
+
   handleRemove() {
     this.props.removeTodo(this.props.id, this.state.task)
   }
-  toggleForm() {
-    this.setState({ isEditing: !this.state.isEditing })
-  }
+
   handleChange(e) {
     this.setState({
       [e.target.name]: e.target.value,
     })
   }
+
+  handleToggle(e) {
+    this.props.toggleTodo(this.props.id)
+  }
+
   handleUpdate(e) {
     e.preventDefault()
-    // take new task
     this.props.updateTodo(this.props.id, this.state.task)
     this.setState({
       isEditing: false,
     })
   }
-  handleToggle(e) {
-    this.props.toggleTodo(this.props.id)
-  }
+
   render() {
     let result
     if (this.state.isEditing) {
@@ -47,9 +54,9 @@ class Todo extends Component {
               value={this.state.task}
               name='task'
               onChange={this.handleChange}
-            ></input>
+            />
             <button>
-              <i class='fa-solid fa-spell-check'></i>
+              <i className='fa-solid fa-spell-check'></i>
             </button>
           </form>
         </div>
@@ -67,10 +74,10 @@ class Todo extends Component {
           </li>
           <div className='Todo-buttons'>
             <button onClick={this.toggleForm}>
-              <i class='fa-solid fa-pencil'></i>
+              <i className='fa-solid fa-pencil'></i>
             </button>
             <button onClick={this.handleRemove}>
-              <i class='fa-solid fa-eraser'></i>
+              <i className='fa-solid fa-eraser'></i>
             </button>
           </div>
         </div>

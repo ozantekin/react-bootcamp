@@ -9,6 +9,7 @@
 
 .Todo-task {
   position: relative;
+  cursor: pointer;
 }
 
 .Todo-task.completed {
@@ -43,38 +44,31 @@
   color: #fff;
 }
 
-.Todo-edit-form {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .Todo-edit-form input {
   flex-grow: 1;
   border: none;
-  background-color: #f7f1f1;
-  padding: 0 1.5em;
-  font: initial;
   outline: none;
+  background: #f7f1f1;
+  font-size: initial;
+  padding: 0.1em 1.5em;
 }
 
 .Todo-edit-form button {
-  padding: 0.1rem 1.3rem;
-  border: none;
-  color: #ff8008 !important;
+  padding: 0.1em 1.3em;
+  font-size: 0.8em;
+  color: #ff8008;
   background: #f7f1f1;
-  color: white;
-  margin-left: 5px;
-  cursor: pointer;
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 5px;
-  font-size: 0.9em;
+  cursor: pointer;
+  margin-left: 5px;
   transition: all 0.5s ease;
 }
 
 .Todo-edit-form button:hover {
   background: transparent;
-  color: #fff !important;
-  border: none;
+  color: #fff;
+  border: 1px solid white;
 }
 
 .Todo-edit-form input,
