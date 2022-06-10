@@ -47,19 +47,19 @@
 
 <h2 align="center">YouTube ile Projeler</h2>
 
-| Sıra | Proje                                                                                 | Tarih          |
-| :--- | :------------------------------------------------------------------------------------ | :------------- |
-| `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)**  | `18 Mayıs`     |
-| `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)**  | `23 Mayıs`     |
-| `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                  | `26 Mayıs`     |
-| `03` | **[Renkli Piyano Tuşları • React Proje #4](https://youtu.be/4gWwWDiw7Aw)**            | `27 Mayıs`     |
-| `04` | **[Lottery Oyunu • React Proje #5](https://youtu.be/XgIfek7lXho)**                    | `28 Mayıs`     |
-| `05` | **[Adam Asmaca Oyunu • React #6](https://youtu.be/4mALpqwC9Es)**                      | `31 Mayıs`     |
-| `06` | **[1 Saat İçinde React ile Oyun Yap • React Proje #7](https://youtu.be/KodUT0YjbTw)** | `7 Haziran`    |
-| `07` | **[]()**                                                                              | `11 Haziran`   |
-| `08` | **[]()**                                                                              | `Hazırlanıyor` |
-| `09` | **[]()**                                                                              | ``             |
-| `10` | **[]()**                                                                              | ``             |
+| Sıra | Proje                                                                                        | Tarih          |
+| :--- | :------------------------------------------------------------------------------------------- | :------------- |
+| `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)**         | `18 Mayıs`     |
+| `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)**         | `23 Mayıs`     |
+| `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                         | `26 Mayıs`     |
+| `03` | **[Renkli Piyano Tuşları • React Proje #4](https://youtu.be/4gWwWDiw7Aw)**                   | `27 Mayıs`     |
+| `04` | **[Lottery Oyunu • React Proje #5](https://youtu.be/XgIfek7lXho)**                           | `28 Mayıs`     |
+| `05` | **[Adam Asmaca Oyunu • React #6](https://youtu.be/4mALpqwC9Es)**                             | `31 Mayıs`     |
+| `06` | **[1 Saat İçinde React ile Oyun Yap • React Proje #7](https://youtu.be/KodUT0YjbTw)**        | `7 Haziran`    |
+| `07` | **[React Todo List Uygulaması ( Tek Part ) • React Proje #8](https://youtu.be/18LtePmIRyg)** | `10 Haziran`   |
+| `08` | **[]()**                                                                                     | `Hazırlanıyor` |
+| `09` | **[]()**                                                                                     | ``             |
+| `10` | **[]()**                                                                                     | ``             |
 
 <hr/>
 
