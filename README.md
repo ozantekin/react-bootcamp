@@ -135,10 +135,6 @@
 
 <hr/>
 
-- ###### Colt Steele eğitmenine ait The Modern React Bootcamp (Hooks, Context, NextJS, Router) kursunun kendi çalışma filtremden geçirilmiş halidir.
-
-<hr/>
-
 <h4> Aktif Kullandığım hesaplar:</h4>
 
 - YouTube: <a href="https://www.youtube.com/c/OzanTekin">Ozan Tekin</a>
