@@ -1,0 +1,12 @@
+.card-container {
+  background-color: #eee;
+  padding: 20px;
+  transition: transform 0.25s ease-out;
+  cursor: pointer;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
