@@ -1,6 +1,6 @@
 <div align= "center">
 <img  src="https://skillicons.dev/icons?i=react" />
-<h1>100 GÜN BOYUNCA SÜRECEK ÇALIŞMANIN İÇERİĞİ</h1>
+<h1>React Bootcamp</h1>
 </div>
 
 - <b> İçerik: </b>
@@ -11,8 +11,6 @@
   - Yayınlamış olduğum videolar.
   - Paylaşmış olduğum bilgiselleri. (flood)
   - Hazırlamış olduğum hızlı tekrar görselleri. (cheat sheet)
-
-- Kısacası yüz gün boyunca React üzerine yapmış olduğum tüm çalışmalara ve yararlandığım tüm kaynaklara bu repository içerisinden ulaşabilirsiniz.
 
 <hr/>
 
@@ -37,7 +35,7 @@
 | `14` | **[Form Exercise](https://github.com/ozantekin/react-bootcamp/tree/main/15_forms_exercise)**              |
 | `15` | **[Todo List Project](https://github.com/ozantekin/react-bootcamp/tree/main/16_todo_list_project)**       |
 | `16` | **[4 Basic Projects](https://github.com/ozantekin/react-bootcamp/tree/main/17_basic_projects)**           |
-| `17` | **[]()**                                                                                                  |
+| `17` | **[Monsters Rolodex](https://github.com/ozantekin/react-bootcamp/tree/main/18_monsters_rolodex)**         |
 | `18` | **[]()**                                                                                                  |
 | `19` | **[]()**                                                                                                  |
 | `20` | **[]()**                                                                                                  |
@@ -47,55 +45,55 @@
 
 <h2 align="center">YouTube ile Projeler</h2>
 
-| Sıra | Proje                                                                                        | Tarih          |
-| :--- | :------------------------------------------------------------------------------------------- | :------------- |
-| `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)**         | `18 Mayıs`     |
-| `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)**         | `23 Mayıs`     |
-| `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                         | `26 Mayıs`     |
-| `03` | **[Renkli Piyano Tuşları • React Proje #4](https://youtu.be/4gWwWDiw7Aw)**                   | `27 Mayıs`     |
-| `04` | **[Lottery Oyunu • React Proje #5](https://youtu.be/XgIfek7lXho)**                           | `28 Mayıs`     |
-| `05` | **[Adam Asmaca Oyunu • React #6](https://youtu.be/4mALpqwC9Es)**                             | `31 Mayıs`     |
-| `06` | **[1 Saat İçinde React ile Oyun Yap • React Proje #7](https://youtu.be/KodUT0YjbTw)**        | `7 Haziran`    |
-| `07` | **[React Todo List Uygulaması ( Tek Part ) • React Proje #8](https://youtu.be/18LtePmIRyg)** | `10 Haziran`   |
-| `08` | **[]()**                                                                                     | `Hazırlanıyor` |
-| `09` | **[]()**                                                                                     | ``             |
-| `10` | **[]()**                                                                                     | ``             |
+| Sıra | Proje                                                                                             |
+| :--- | :------------------------------------------------------------------------------------------------ |
+| `00` | **[React Giriş Props Detaylı Proje • React Proje #1](https://youtu.be/MONerFBEmNw)**              |
+| `01` | **[React Giriş State Detaylı Proje • React Proje #2](https://youtu.be/D6kz5L2o9FE)**              |
+| `02` | **[Yazı Tura Oyunu • React Proje #3](https://youtu.be/tVTEmYBPSNQ)**                              |
+| `03` | **[Renkli Piyano Tuşları • React Proje #4](https://youtu.be/4gWwWDiw7Aw)**                        |
+| `04` | **[Lottery Oyunu • React Proje #5](https://youtu.be/XgIfek7lXho)**                                |
+| `05` | **[Adam Asmaca Oyunu • React #6](https://youtu.be/4mALpqwC9Es)**                                  |
+| `06` | **[1 Saat İçinde React ile Oyun Yap • React Proje #7](https://youtu.be/KodUT0YjbTw)**             |
+| `07` | **[React Todo List Uygulaması ( Tek Part ) • React Proje #8](https://youtu.be/18LtePmIRyg)**      |
+| `08` | **[React Temellerini Bir Proje ile Öğren - Yeni Başlayanlar İçin](https://youtu.be/9n4_q7xfdDE)** |
+| `09` | **[]()**                                                                                          |
+| `10` | **[]()**                                                                                          |
 
 <hr/>
 
 <h2 align="center">Çalışma Özetleri </h2>
 
-| Sıra | Flood ve Makaleler                                                                                                                                         | Tarih          |
-| :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
-| `00` | **[React Dünyasına Giriş #1](https://medium.com/@ozantekindev/react-d%C3%BCnyas%C4%B1na-giri%C5%9F-1-222c415e63e3)**                                       | `10 Mayıs`     |
-| `01` | **[Props Nedir? Encapsulation Nedir? #2](https://medium.com/@ozantekindev/props-nedir-encapsulation-nedir-2-8b50b9bd7904)**                                | `11 Mayıs`     |
-| `02` | **[State Nedir? #3](https://medium.com/@ozantekindev/state-nedir-3-fb23641da99)**                                                                          | `12 Mayıs`     |
-| `03` | **[Component’ler arası veri ve event transferi #4](https://medium.com/@ozantekindev/componentler-aras%C4%B1-veri-ve-event-transferi-4-2b809657f796)**      | `13 Mayıs`     |
-| `04` | **[React üzerine çalışanlar için 4 Chrome eklentisi](https://twitter.com/ozantekindev/status/1527963709838176262?s=20&t=6hDOEJvI_6hxuBe9ye882Q)**          | `21 Mayıs`     |
-| `05` | **[Map, Reduce, Filter & Spread Operator • React #5](https://medium.com/@ozantekindev/map-reduce-filter-spread-operator-react-5-javascript-9093206d111f)** | `25 Mayıs`     |
-| `06` | **[]()**                                                                                                                                                   | `Hazırlanıyor` |
-| `07` | **[]()**                                                                                                                                                   | ``             |
-| `08` | **[]()**                                                                                                                                                   | ``             |
-| `09` | **[]()**                                                                                                                                                   | ``             |
-| `10` | **[]()**                                                                                                                                                   | ``             |
+| Sıra | Flood ve Makaleler                                                                                                                                         |
+| :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `00` | **[React Dünyasına Giriş #1](https://medium.com/@ozantekindev/react-d%C3%BCnyas%C4%B1na-giri%C5%9F-1-222c415e63e3)**                                       |
+| `01` | **[Props Nedir? Encapsulation Nedir? #2](https://medium.com/@ozantekindev/props-nedir-encapsulation-nedir-2-8b50b9bd7904)**                                |
+| `02` | **[State Nedir? #3](https://medium.com/@ozantekindev/state-nedir-3-fb23641da99)**                                                                          |
+| `03` | **[Component’ler arası veri ve event transferi #4](https://medium.com/@ozantekindev/componentler-aras%C4%B1-veri-ve-event-transferi-4-2b809657f796)**      |
+| `04` | **[React üzerine çalışanlar için 4 Chrome eklentisi](https://twitter.com/ozantekindev/status/1527963709838176262?s=20&t=6hDOEJvI_6hxuBe9ye882Q)**          |
+| `05` | **[Map, Reduce, Filter & Spread Operator • React #5](https://medium.com/@ozantekindev/map-reduce-filter-spread-operator-react-5-javascript-9093206d111f)** |
+| `06` | **[]()**                                                                                                                                                   |
+| `07` | **[]()**                                                                                                                                                   |
+| `08` | **[]()**                                                                                                                                                   |
+| `09` | **[]()**                                                                                                                                                   |
+| `10` | **[]()**                                                                                                                                                   |
 
 <hr/>
 
 <h2 align="center">İnstagram Cheat Sheet Kütüphanesi</h2>
 
-| Sıra | Proje    | Tarih          |
-| :--- | :------- | :------------- |
-| `00` | **[]()** | `Hazırlanıyor` |
-| `01` | **[]()** | ``             |
-| `02` | **[]()** | ``             |
-| `03` | **[]()** | ``             |
-| `04` | **[]()** | ``             |
-| `05` | **[]()** | ``             |
-| `06` | **[]()** | ``             |
-| `07` | **[]()** | ``             |
-| `08` | **[]()** | ``             |
-| `09` | **[]()** | ``             |
-| `10` | **[]()** | ``             |
+| Sıra | Proje                                                                                                      |
+| :--- | :--------------------------------------------------------------------------------------------------------- |
+| `00` | **[React hakkında temel bir bilgi](https://www.instagram.com/p/Cg4DkWPsuBp/?utm_source=ig_web_copy_link)** |
+| `01` | **[React Component Lifecycle ](https://www.instagram.com/p/CiUQPtAsfW6/?utm_source=ig_web_copy_link)**     |
+| `02` | **[]()**                                                                                                   |
+| `03` | **[]()**                                                                                                   |
+| `04` | **[]()**                                                                                                   |
+| `05` | **[]()**                                                                                                   |
+| `06` | **[]()**                                                                                                   |
+| `07` | **[]()**                                                                                                   |
+| `08` | **[]()**                                                                                                   |
+| `09` | **[]()**                                                                                                   |
+| `10` | **[]()**                                                                                                   |
 
 <hr/>
 
